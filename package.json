@@ -1,7 +1,7 @@
 {
-  "name": "react-autocomplete",
-  "version": "1.7.1",
-  "description": "Accessible, extensible, Autocomplete for React.js",
+  "name": "@smyte/react-autocomplete",
+  "version": "0.0.0",
+  "description": "A fork of react-autocomplete that supports two-stage autocompletion",
   "main": "./build/lib/Autocomplete.js",
   "files": [
     "build/lib/index.js",
@@ -10,10 +10,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/reactjs/react-autocomplete.git"
+    "url": "https://github.com/authbox-lib/react-autocomplete.git"
   },
-  "homepage": "https://github.com/reactjs/react-autocomplete",
-  "bugs": "https://github.com/reactjs/react-autocomplete/issues",
+  "homepage": "https://github.com/authbox-lib/react-autocomplete",
+  "bugs": "https://github.com/authbox-lib/react-autocomplete/issues",
   "directories": {
     "example": "examples"
   },
